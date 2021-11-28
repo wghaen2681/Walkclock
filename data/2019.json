@@ -3,10 +3,10 @@
     {
       "award": "最佳顏質獎",
       "awarded": {
-        "thumbnail": "../img/thumbnail/a1.jpeg",
+        "thumbnail": "../img/thumbnail/a1-1.jpeg",
         "link": "https://youtu.be/-uhU0Sa97jg",
         "title": "鼻鼻不要看 - 上班不要看首支為女性打造的影片",
-        "channel_headshot": "../img/channel_headshot/a1.jpeg",
+        "channel_headshot": "../img/channel_headshot/a1-1.jpeg",
         "channel": "上班不要看",
         "author": "呱吉",
         "praise": ""
@@ -16,33 +16,39 @@
     {
       "award": "最佳特效獎",
       "awarded": {
-        "thumbnail": "../img/thumbnail/b1.jpeg",
+        "thumbnail": "../img/thumbnail/a2-1.jpeg",
         "link": "https://youtu.be/ESrCbRBv4mc",
         "title": "【純欣賞】EP04 ：星際迷茫 太空幹話",
-        "channel_headshot": "../img/channel_headshot/a1.jpeg",
-        "channel": "上班不要看"
+        "channel_headshot": "../img/channel_headshot/a1-1.jpeg",
+        "channel": "上班不要看",
+        "author": "曹小歐",
+        "praise": ""
       },
       "shortlist": []
     },
     {
       "award": "最佳動作指導獎",
       "awarded": {
-        "thumbnail": "../img/thumbnail/c1.jpeg",
+        "thumbnail": "../img/thumbnail/a3-1.jpeg",
         "link": "https://youtu.be/KuaHnZiLhWU",
         "title": "【活動通知】最強五百塊走路工 - 小歐又要再度挑戰「忠孝東路走九遍」啦！",
-        "channel_headshot": "../img/channel_headshot/a1.jpeg",
-        "channel": "上班不要看"
+        "channel_headshot": "../img/channel_headshot/a1-1.jpeg",
+        "channel": "上班不要看",
+        "author": "走路教練",
+        "praise": ""
       },
       "shortlist": []
     },
     {
       "award": "最佳笑話獎",
       "awarded": {
-        "thumbnail": "../img/thumbnail/d1.jpeg",
+        "thumbnail": "../img/thumbnail/a4-1.jpeg",
         "link": "https://youtu.be/fbCsfXlf58U",
         "title": "我歐歐忠孝東路走九遍挑戰成功！讓我們再次感動！【直播全精華】",
-        "channel_headshot": "../img/channel_headshot/a1.jpeg",
-        "channel": "上班不要看"
+        "channel_headshot": "../img/channel_headshot/a1-1.jpeg",
+        "channel": "上班不要看",
+        "author": "麻希Maki",
+        "praise": ""
       },
       "shortlist": []
     },
@@ -52,107 +58,127 @@
         "thumbnail": "",
         "link": "",
         "title": "啪啪芽、包莖兔、星際號",
-        "channel_headshot": "../img/channel_headshot/a1.jpeg",
-        "channel": "上班不要看"
+        "channel_headshot": "../img/channel_headshot/a1-1.jpeg",
+        "channel": "上班不要看",
+        "author": "廉傑克曼",
+        "praise": ""
       },
       "shortlist": []
     },
     {
       "award": "最佳烙賽獎",
       "awarded": {
-        "thumbnail": "../img/thumbnail/f1.jpeg",
+        "thumbnail": "../img/thumbnail/a6-1.jpeg",
         "link": "https://youtu.be/7yt06OUXeeA",
         "title": "【LiFe週記】#16 大黑的青春序章 - 不看會後悔",
-        "channel_headshot": "../img/channel_headshot/a1.jpeg",
-        "channel": "上班不要看"
+        "channel_headshot": "../img/channel_headshot/a1-1.jpeg",
+        "channel": "上班不要看",
+        "author": "大黑",
+        "praise": ""
       },
       "shortlist": []
     },
     {
       "award": "最佳走路工獎",
       "awarded": {
-        "thumbnail": "../img/thumbnail/g1.jpeg",
+        "thumbnail": "../img/thumbnail/a7-1.jpeg",
         "link": "https://youtu.be/UCwmgtvOFJU",
         "title": "【LiFe週記】#15 蔡宜紘的青春夢想 - 芒果青",
-        "channel_headshot": "../img/channel_headshot/a1.jpeg",
-        "channel": "上班不要看"
+        "channel_headshot": "../img/channel_headshot/a1-1.jpeg",
+        "channel": "上班不要看",
+        "author": "蔡哥",
+        "praise": ""
       },
       "shortlist": []
     },
     {
       "award": "最佳外語獎",
       "awarded": {
-        "thumbnail": "../img/thumbnail/h1.jpeg",
+        "thumbnail": "../img/thumbnail/a8-1.jpeg",
         "link": "https://youtu.be/39igGpTsiRI",
         "title": "【Travel Maker】露營篇：帳篷裡有女孩子的東西 - 南澳野外露出",
-        "channel_headshot": "../img/channel_headshot/a1.jpeg",
-        "channel": "上班不要看"
+        "channel_headshot": "../img/channel_headshot/a1-1.jpeg",
+        "channel": "上班不要看",
+        "author": "那山那谷老闆",
+        "praise": ""
       },
       "shortlist": []
     },
     {
       "award": "最佳配樂獎",
       "awarded": {
-        "thumbnail": "../img/thumbnail/i1.jpeg",
+        "thumbnail": "../img/thumbnail/a9-1.jpeg",
         "link": "https://youtu.be/tM0RdjnNvu8",
         "title": "公司架大沒剪刀 –【天下第一蛤】上班不要看最新八點檔好戲",
-        "channel_headshot": "../img/channel_headshot/a1.jpeg",
-        "channel": "上班不要看"
+        "channel_headshot": "../img/channel_headshot/a1-1.jpeg",
+        "channel": "上班不要看",
+        "author": "公司架大沒剪刀",
+        "praise": ""
       },
       "shortlist": []
     },
     {
       "award": "最佳剪輯獎",
       "awarded": {
-        "thumbnail": "../img/thumbnail/j1.jpeg",
+        "thumbnail": "../img/thumbnail/a10-1.jpeg",
         "link": "https://youtu.be/AprDtA4MUss",
         "title": "【LiFe週記】#06 回到17歲，穿高中制服打保齡球！居然真的被查證件了!",
-        "channel_headshot": "../img/channel_headshot/a1.jpeg",
-        "channel": "上班不要看"
+        "channel_headshot": "../img/channel_headshot/a1-1.jpeg",
+        "channel": "上班不要看",
+        "author": "關關關兒",
+        "praise": ""
       },
       "shortlist": []
     },
     {
       "award": "最佳導演獎",
       "awarded": {
-        "thumbnail": "../img/thumbnail/k1.jpeg",
+        "thumbnail": "../img/thumbnail/a11-1.jpeg",
         "link": "https://youtu.be/gVGIXXH7z-w",
         "title": "誘惑寶寶大作戰！5種吸引貓咪的方式，到底哪招有效呢？！",
-        "channel_headshot": "../img/channel_headshot/a1.jpeg",
-        "channel": "上班不要看"
+        "channel_headshot": "../img/channel_headshot/a1-1.jpeg",
+        "channel": "上班不要看",
+        "author": "寶寶(諾基)",
+        "praise": ""
       },
       "shortlist": []
     },
     {
       "award": "最佳攝影獎",
       "awarded": {
-        "thumbnail": "../img/thumbnail/l1.jpeg",
+        "thumbnail": "../img/thumbnail/a12-1.jpeg",
         "link": "https://youtu.be/z2dyRHXOFjg",
         "title": "【都市傳說手工女】小歐已經不只是怪怪的怪怪的…",
-        "channel_headshot": "../img/channel_headshot/a1.jpeg",
-        "channel": "上班不要看"
+        "channel_headshot": "../img/channel_headshot/a1-1.jpeg",
+        "channel": "上班不要看",
+        "author": "小餅",
+        "praise": ""
       },
       "shortlist": []
     },
     {
       "award": "最佳男主角獎",
       "awarded": {
-        "thumbnail": "../img/thumbnail/i1.jpeg",
+        "thumbnail": "../img/thumbnail/a9-1.jpeg",
         "link": "https://youtu.be/tM0RdjnNvu8",
         "title": "公司架大沒剪刀 –【天下第一蛤】上班不要看最新八點檔好戲",
-        "channel_headshot": "../img/channel_headshot/a1.jpeg",
-        "channel": "上班不要看"
+        "channel_headshot": "../img/channel_headshot/a1-1.jpeg",
+        "channel": "上班不要看",
+        "author": "HowHow",
+        "praise": ""
       },
       "shortlist": []
     },
     {
       "award": "最佳女主角獎",
       "awarded": {
-        "thumbnail": "../img/thumbnail/i1.jpeg",
+        "thumbnail": "../img/thumbnail/a9-1.jpeg",
         "link": "https://youtu.be/tM0RdjnNvu8",
         "title": "公司架大沒剪刀 –【天下第一蛤】上班不要看最新八點檔好戲",
-        "channel_headshot": "../img/channel_headshot/a1.jpeg",
-        "channel": "上班不要看"
+        "channel_headshot": "../img/channel_headshot/a1-1.jpeg",
+        "channel": "上班不要看",
+        "author": "湯瑪士",
+        "praise": ""
       },
       "shortlist": []
     }
