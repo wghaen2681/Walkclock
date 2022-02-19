@@ -1,0 +1,29 @@
+{
+  "name": "Walkclock",
+  "version": "1.0.0",
+  "description": "Walkclock",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wghaen2681/Walkclock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wghaen2681/Walkclock/issues"
+  },
+  "homepage": "https://github.com/wghaen2681/Walkclock#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-pug": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "html-beautify": "^1.0.4",
+    "htmlmin": "0.0.7",
+    "pug": "^3.0.2",
+    "sass": "^1.47.0"
+  }
+}
