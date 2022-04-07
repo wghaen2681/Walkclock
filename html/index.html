@@ -7,15 +7,24 @@
     <title>Walkclock | 2021</title>
   </head>
   <body> 
-    <h1>bbb </h1>
+    <div id="app">
+      <h1>bbb </h1>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.24.0/axios.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
     <script>
-      new Vue({
+      var app = new Vue({
         el: '#app',
-        mounted() {
-          function() {
-            console.log('The Vue is working properly!')
+        data: {
+          header: {}
+        },
+        methods: {
+          getData: function() {
+            console.log(29)
           }
+        },
+        mounted() {
+          this.getData()
         }
       })
     </script>
